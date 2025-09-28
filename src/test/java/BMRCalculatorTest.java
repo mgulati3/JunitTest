@@ -1,7 +1,5 @@
-package src.test.java;
 import org.junit.jupiter.api.Test;
 
-import src.main.java.BMRCalculator;
 
 import static org.junit.jupiter.api.Assertions.*;
 

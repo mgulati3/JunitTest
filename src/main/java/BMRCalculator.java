@@ -1,4 +1,3 @@
-package src.main.java;
 public class BMRCalculator {
 
     public static double calculateBMR(int age, int height, double weight, String gender) {
